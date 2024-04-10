@@ -1,0 +1,79 @@
+Dish,Ingredients,Type
+Pecan Pie,"Pie crust, pecans, eggs, corn syrup, sugar, butter, vanilla extract, salt",Dessert
+Raspberry Tart,"Tart crust, raspberries, sugar, cornstarch, water, lemon juice, sugar",Dessert
+Pumpkin Pie,"Pie crust, pumpkin puree, eggs, cream, sugar, cinnamon, ginger, nutmeg",Dessert
+Baklava,"Phyllo dough, nuts, butter, sugar, honey, cinnamon, lemon juice",Dessert
+Cannoli,"Cannoli shells, ricotta cheese, powdered sugar, chocolate chips, vanilla extract",Dessert
+Panettone,"Flour, sugar, eggs, butter, yeast, dried fruits (raisins, candied orange peel), lemon zest, vanilla extract",Dessert
+Panna Cotta,"Cream, sugar, gelatin, vanilla extract",Dessert
+Mochi,"Glutinous rice flour, sugar, water, cornstarch, sweet filling",Dessert
+Gelato,"Milk, sugar, cocoa or fruit purees, sometimes eggs",Dessert
+Pastel de Nata,"Puff pastry, egg yolks, sugar, cream, vanilla extract",Dessert
+Churros,"Water, butter, salt, flour, eggs, sugar, cinnamon, oil",Dessert
+Chocolate Cake,"Flour, sugar, cocoa powder, baking powder, eggs, milk, vegetable oil, vanilla extract",Dessert
+Apple Pie,"Apples, sugar, cinnamon, pie crust, butter, flour, lemon juice, nutmeg",Dessert
+Cheesecake,"Cream cheese, sugar, eggs, vanilla extract, graham cracker crust, sour cream",Dessert
+Brownies,"Butter, sugar, cocoa powder, flour, eggs, vanilla extract, salt",Dessert
+Tiramisu,"Ladyfingers, espresso, mascarpone cheese, sugar, cocoa powder, rum or coffee liqueur, eggs",Dessert
+Strawberry Shortcake,"Flour, sugar, baking powder, butter, heavy cream, strawberries, whipped cream",Dessert
+Carrot Cake,"Flour, sugar, carrots, eggs, vegetable oil, cinnamon, baking soda, cream cheese frosting",Dessert
+Peach Cobbler,"Peaches, sugar, flour, baking powder, butter, milk, cinnamon",Dessert
+Chocolate Chip Cookies,"Flour, sugar, brown sugar, butter, eggs, vanilla extract, baking soda, chocolate chips",Dessert
+Poached Pears,"Pears, sugar, water, vanilla extract, cinnamon",Dessert
+Chocolate Mousse,"Dark chocolate, heavy cream, sugar, eggs",Dessert
+Rice Pudding,"Rice, milk, sugar, cinnamon, vanilla",Dessert
+Almond Biscotti,"Flour, sugar, almonds, eggs, vanilla extract, baking powder",Dessert
+Macaroons,"Almond flour, powdered sugar, egg whites, granulated sugar, vanilla extract, food coloring",Dessert
+Grilled Salmon,"Salmon fillets, olive oil, lemon, garlic, salt, pepper, dill",other
+Sushi Roll,"Sushi rice, nori sheets, raw fish (like tuna or salmon), cucumber, avocado, soy sauce, wasabi",other
+Spaghetti Carbonara,"Spaghetti, eggs, parmesan cheese, pancetta or bacon, black pepper, garlic",other
+Mac and Cheese,"Macaroni, cheddar cheese, milk, butter, flour, salt, pepper, breadcrumbs",other
+Chicken Curry,"Chicken, onions, garlic, ginger, tomatoes, curry powder, coconut milk, cilantro",other
+Beef Tacos,"Ground beef, taco shells, lettuce, tomato, cheese, sour cream, taco seasoning",other
+Paella,"Rice, chicken, shrimp, mussels, peas, bell peppers, saffron, chicken broth, tomatoes, onions, garlic",other
+Paella,"Rice, chicken, shrimp, mussels, peas, bell peppers, saffron, chicken broth, tomatoes, onions, garlic",other
+Pad Thai,"Rice noodles, shrimp or tofu, eggs, bean sprouts, peanuts, tamarind paste, fish sauce, garlic, lime, green onions",other
+Texas Brisket,"Beef brisket, paprika, brown sugar, garlic powder, onion powder, black pepper, salt, cayenne pepper, wood chips",other
+Fajitas,"Skirt steak or chicken breast, bell peppers, onions, fajita seasoning, lime, tortillas, olive oil, salsa, sour cream",other
+Shrimp and Grits,"Shrimp, grits, cheese, butter, green onions, garlic, lemon juice, bacon, chicken broth, salt, pepper",other
+King Ranch Chicken Casserole,"Cooked chicken, tortillas, cheddar cheese, cream of chicken soup, cream of mushroom soup, tomatoes with green chilis, onion, bell pepper, chili powder, cumin",other
+Tacos,"Tortillas, Ground beef, Lettuce, Tomato, Cheese, Salsa",other
+Burrito,"Flour tortilla, Refried beans, Rice, Cheese, Salsa, Chicken",other
+Enchiladas,"Corn tortillas, Cheese, Enchilada sauce, Onions, Chicken",other
+Guacamole,"Avocado, Lime, Salt, Onion, Tomato, Garlic",other
+Quesadilla,"Flour tortillas, Cheese, Chicken, Peppers, Onions, Salsa",other
+Chiles Rellenos,"Poblano peppers, Cheese, Flour, Eggs, Tomato sauce",other
+Nachos,"Tortilla chips, Cheese, Jalapenos, Beans, Sour cream, Salsa",other
+Hamburger,"Ground beef, Bun, Lettuce, Tomato, Onion, Ketchup, Mustard",other
+Cheeseburger,"Ground beef, Bun, Cheese, Lettuce, Tomato, Onion, Ketchup, Mustard",other
+BBQ Ribs,"Pork ribs, BBQ sauce, Garlic powder, Onion powder, Black pepper, Salt",other
+Fried Chicken,"Chicken, Flour, Eggs, Buttermilk, Paprika, Garlic powder, Salt, Pepper",other
+Macaroni and Cheese,"Macaroni, Cheddar cheese, Milk, Butter, Flour, Salt, Pepper",other
+Clam Chowder,"Clams, Potatoes, Onion, Celery, Milk, Butter, Flour, Salt, Pepper",other
+Veggie Pizza,"Pizza dough, tomato sauce, mozzarella cheese, bell peppers, onions, mushrooms, olives, spinach",Vegetarian
+Vegetable Stir Fry,"Broccoli, bell peppers, carrots, snow peas, soy sauce, garlic, ginger, sesame oil",Vegetarian
+Stuffed Bell Peppers,"Bell peppers, quinoa, black beans, corn, tomato sauce, onions, garlic, cumin, cheese",Vegetarian
+Mushroom Risotto,"Arborio rice, mushrooms, vegetable broth, onions, garlic, parmesan cheese, white wine, butter",Vegetarian
+Caprese Salad,"Tomatoes, mozzarella cheese, fresh basil, olive oil, balsamic glaze, salt, pepper",Vegetarian
+Squash Soup,"Butternut squash, vegetable broth, onion, garlic, carrot, celery, nutmeg, cream",Vegetarian
+Cauliflower Tacos,"Cauliflower, tortillas, avocado, lime, cabbage, cilantro, sour cream, chili powder",Vegetarian
+Eggplant Parmesan,"Eggplant, marinara sauce, mozzarella cheese, parmesan cheese, breadcrumbs, eggs, flour, basil",Vegetarian
+Ramen,"Ramen noodles, chicken broth, soy sauce, garlic, ginger, green onions, eggs, mushrooms, spinach",Vegetarian
+Spinach and Feta Quiche,"Pie crust, eggs, cream, spinach, feta cheese, onions, garlic, nutmeg, salt, pepper",Vegetarian
+Chickpea Salad,"Chickpeas, cucumbers, tomatoes, red onion, feta cheese, olives, lemon juice, olive oil, parsley, salt, pepper",Vegetarian
+Lentil Soup,"Lentils, vegetable broth, carrots, celery, onion, tomatoes, garlic, cumin, coriander, olive oil",Vegetarian
+Greek Salad,"Cucumbers, tomatoes, red onion, feta cheese, olives, olive oil, lemon juice, oregano, salt, pepper",Vegetarian
+egetable Korma,"Potatoes, carrots, peas, bell peppers, coconut milk, yogurt, korma paste, almonds, raisins, cilantro",Vegetarian
+Falafel,"Chickpeas, onions, parsley, garlic, cumin, coriander, salt, pepper, flour, oil",Vegetarian
+Margherita Pizza,"Pizza dough, tomato sauce, fresh mozzarella cheese, fresh basil, olive oil, salt",Vegetarian
+Pumpkin Curry,"Pumpkin, coconut milk, curry paste, onions, garlic, ginger, bell peppers, chickpeas, spinach, salt",Vegetarian
+Dolma,"Grape leaves, long-grain white rice, olive oil, onions, fresh dill, salt, pepper",Vegetarian
+Spinach Pie,"spinach, feta cheese, onions, olive oil, eggs, dill, salt, pepper, salt, pepper",Vegetarian
+Aloo Gobi,"Potatoes, cauliflower, onions, tomatoes, cumin seeds, turmeric, coriander, garam masala, ginger, garlic, green chilies, cilantro, vegetable oil, salt",Vegetarian
+Zucchini Noodles with Pesto," Zucchini, basil pesto, cherry tomatoes, pine nuts, parmesan cheese, garlic, olive oil, salt, pepper",Vegetarian
+Quinoa Salad,"Quinoa, cherry tomatoes, cucumber, avocado, lemon juice, olive oil, feta cheese, parsley, mint, salt, pepper",Vegetarian
+Veggie Sushi Rolls,"Sushi rice, nori sheets, cucumber, avocado, carrot, red bell pepper, rice vinegar, soy sauce, wasabi, pickled ginger",Vegetarian
+Black Bean Burgers,"Black beans, breadcrumbs, onions, garlic, cumin, paprika, egg, salt, pepper, olive oil, hamburger buns, lettuce, tomatoes",Vegetarian
+Ratatouille,"Eggplant, zucchini, bell peppers, tomatoes, onions, garlic, thyme, rosemary, olive oil, salt, pepper",Vegetarian
+Baked Sweet Potatoes,"Sweet potatoes, black beans, corn, avocado, sour cream, lime, cilantro, chili powder, salt, pepper",Vegetarian
+Vegetable Paella,"Arborio rice, saffron, vegetable broth, green beans, peas, bell peppers, tomatoes, onions, garlic, olive oil, salt, pepper",Vegetarian
